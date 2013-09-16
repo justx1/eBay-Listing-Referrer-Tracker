@@ -1,5 +1,5 @@
 <script language="Javascript">
-// Add this script (including the <script> tags into your eBay item description)
+// Add this script (including the <script> tags) into your eBay item description
 <!--
 	i=new Image();
 	if (document.referrer&&document.referrer!="")
