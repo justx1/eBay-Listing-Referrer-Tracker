@@ -14,6 +14,6 @@ Instructions:
 Useful information in the logfile:
 ==================================
 - IP address
-- Referrer: What page was the user looking at before coming to your site (only if clicked a link)
--- In case of Google: You can see the search keywords that the visitor used on Google before clicking on your eBay listing
--- In case of eBay: You can see the search keywords that the visitor used on eBay before clicking on your eBay listing (look for "_nkw")
+- Referrer: Page the user was looking at before coming to your site (only if clicked a link)
+- In case of Google: You can see the search keywords that the visitor used on Google before clicking on your eBay listing
+- In case of eBay: You can see the search keywords that the visitor used on eBay before clicking on your eBay listing (look for "_nkw")
